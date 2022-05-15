@@ -1,2 +1,2 @@
-simple CRUD app; 
+MERN CRUD APP; 
 
